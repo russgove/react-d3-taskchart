@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-task-chart-client-side-solution",
+    "id": "5ae1c64a-8709-42a5-a216-75c9fd8839aa",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-task-chart.sppkg"
+  }
+}

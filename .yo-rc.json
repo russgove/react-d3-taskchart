@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "react-task-chart",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "5ae1c64a-8709-42a5-a216-75c9fd8839aa"
+  }
+}
